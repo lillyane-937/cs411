@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE         COMMAND    CREATED          STATUS                      PORTS     NAMES
+4873663f1181   hello-world   "/hello"   2 minutes ago    Exited (0) 2 minutes ago              gallant_williams
